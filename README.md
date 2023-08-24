@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhpadhi
 - 👀 I’m interested in all the things that can be automated, should be automated. 
-- 🌱 I’m currently learning python, nodeJS
-- 💞️ I’m looking to collaborate on nodeJS to help me learn it faster . 
+- 🌱 I’m currently learning python, GoLang
+- 💞️ I’m looking to collaborate on GoLang to help me learn it faster . 
 - 📫 How to reach me abhinab.padhi1989@gmail.com 
 
 <!---
